@@ -18,7 +18,7 @@ ______________________________________________________
 ### Bloco 2: Git & GitHub 
 
 - [x] 2-1: O que é e para que serve?
-- [ ] 2-2: Entendendo os comandos
+- [x] 2-2: Entendendo os comandos
 - [ ] 2-3: Internet - Entendendo como ela funciona
 
 ### Bloco 3: Introdução - HTML & CSS
