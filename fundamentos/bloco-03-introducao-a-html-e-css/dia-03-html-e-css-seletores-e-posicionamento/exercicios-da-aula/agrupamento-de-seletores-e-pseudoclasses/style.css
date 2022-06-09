@@ -1,0 +1,10 @@
+ p , h1, li{
+     text-align: center;
+     list-style-type: none;
+ }
+
+ li:hover{
+    transition: 0.5s;
+    background-color: aquamarine;
+    border-radius: 25px;
+ }
