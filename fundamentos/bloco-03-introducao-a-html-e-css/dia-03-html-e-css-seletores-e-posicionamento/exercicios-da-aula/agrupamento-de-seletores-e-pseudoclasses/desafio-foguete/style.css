@@ -1,0 +1,49 @@
+*{
+
+}
+
+div{
+    transition: 0.3s;
+}
+
+h3{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    transition: 0.5s;
+    color: gray;
+}
+
+h3:hover{
+    height: 30px;
+}
+
+div:hover{
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.primaria{
+    background-color: aqua;
+}
+.Secundaria{
+    background-color: antiquewhite;
+}
+.Complementar{
+    background-color: blueviolet;
+}
+.escura{
+    background-color: darkslategrey;
+}
+.clara{
+    background-color: aliceblue;
+}
+
+div:nth-of-type(3){
+    height: 40px;
+}
+
+h3:nth-child(odd){
+    font-style: italic;
+    color: black;
+}
