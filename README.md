@@ -17,18 +17,18 @@ ______________________________________________________
 - [x] 3-1: HTML & CSS - Estruturas de página
 - [x] 3-2: HTML & CSS - Primeiros passos em CSS
 - [x] 3-3: HTML & CSS - Seletores e posicionamento
-- [ ] 3-4: HTML Semântico
-- [ ] 3-5: [Projeto - HTML & CSS]()
+- [x] 3-4: HTML Semântico
+- [x] 3-5: [Projeto - HTML & CSS]()
 
 ### Bloco 4: Introdução - JavaScript
-- [ ] 4-1: JavaScript - Primeiros passos
-- [ ] 4-2: JavaScript - Array e loop For
-- [ ] 4-3: JavaScript - Lógica de Programação e Algoritmos
-- [ ] 4-4: JavaScript - Objetos e funções
-- [ ] 4-5: [Projeto - Playground Functions]()
+- [x] 4-1: JavaScript - Primeiros passos
+- [x] 4-2: JavaScript - Array e loop For
+- [x] 4-3: JavaScript - Lógica de Programação e Algoritmos
+- [x] 4-4: JavaScript - Objetos e funções
+- [x] 4-5: [Projeto - Playground Functions]()
  
 ### Bloco 5: Introdução - JavaScript - Projetos
-- [ ] 5-1: DOM e seletores
+- [x] 5-1: DOM e seletores
 - [ ] 5-2: Trabalhando com elementos
 - [ ] 5-3: Eventos
 - [ ] 5-4: Web Storage
