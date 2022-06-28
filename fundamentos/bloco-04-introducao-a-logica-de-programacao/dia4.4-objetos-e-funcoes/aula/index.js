@@ -1,4 +1,4 @@
-/*let player = {
+let player = {
   PName: "Marta",
   lastName: "Silva",
   age: 34,
@@ -33,7 +33,9 @@ console.log(
   "medalhas de ouro e",
   player.medals.silver,
   "medalhas de prata"
-);*/
+);
+
+//-----------------------------
 
 let names = {
     person1: 'João',
@@ -44,3 +46,23 @@ let names = {
   for (const key in names) {
       console.log('Ola', names[key])
   }
+
+  //-----------------------------
+
+  let car = {
+    model: 'A3 Sedan',
+    manufacturer: 'Audi',
+    year: 2020
+  };
+
+  for (const key in car) {
+    console.log(key, car[key])
+  }
+
+  const trybeStudent = { 
+    name: "Luiza",
+    class: 15,
+    favoriteSubject: "javascript",
+    };
+
+    
