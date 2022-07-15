@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation:wght@500;600&display=swap");
+html {
+  box-sizing: border-box;
+}
+li {
+  text-decoration: none;
+  list-style: none;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+header {
+  flex-basis: 100%;
+  display: flex;
+  background-color: black;
+  color: white;
+  font-family: "Edu NSW ACT Foundation", cursive;
+  justify-content: space-between;
+}
+header p {
+  display: flex;
+  width: 60%;
+}
+nav {
+  display: flex;
+  width: 30%;
+}
+nav ul {
+  display: flex;
+  justify-content: space-between;
+  padding: 0;
+  flex-grow: 1;
+  font-size: 15px;
+}
+nav ul li:last-child {
+  margin-right: 10px;
+}
+
+h2 {
+  padding-left: 15px;
+}
+h1 {
+  padding-left: 10px;
+}
+article {
+  padding: 10px;
+  justify-content: center;
+}
+footer {
+  width: 100%;
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+  justify-content: center;
+  text-align: center;
+}
+footer h3 {
+  width: 100%;
+}
+
+@media (min-width: 750px) {
+  main {
+    display: flex;
+    flex-wrap: wrap;
+    flex-flow: row-reverse;
+    width: 100%;
+    background-color: bisque;
+  }
+  article {
+    width: 60%;
+  }
+  p {
+    font-size: 17px;
+    font-family: "Lato", sans-serif;
+  }
+  header {
+    color: bisque;
+  }
+  header nav li {
+    transition: 0.5s;
+  }
+  header p{
+    padding: 10px;
+    transition: 0.5s;
+  }
+  header p:hover{
+    color: white;
+  }
+  li:hover {
+    color: grey;
+    font-size: 20px;
+  }
+}
